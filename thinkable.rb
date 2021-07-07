@@ -1,6 +1,6 @@
 module Thinkable
     def think
-        puts "私は#{self.hoby}ついて考えています。"
+        puts "私は#{self.hobby}ついて考えています。"
     end
 
 end    
